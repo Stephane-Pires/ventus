@@ -4,7 +4,7 @@
 
 A Tornado 🌪 theme for [Slidev](https://github.com/slidevjs/slidev).
 
-Live demo: [here](https://stephane-pires.github.io/ventus)
+Live demo: [here](https://ventus-jade.vercel.app/1)
 <!--
   Learn more about how to write a theme:
   https://sli.dev/themes/write-a-theme.html
