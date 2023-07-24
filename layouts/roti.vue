@@ -1,4 +1,3 @@
-
 <template>
   <div class="slidev-layout w-full h-full flex items-center">
     <h1>

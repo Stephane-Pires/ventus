@@ -42,9 +42,6 @@
       </p>
   
       
-      <!-- button or link or whatever -->
-      <!-- <a href="./StarScroll.zip" class="space-button">Download The Code Now!</a> -->
-        
     </div>
   </div>
   </div>
@@ -249,8 +246,6 @@
       animation: scroll 100s linear 4s forwards;
     }
   }
-  
-    
     </style>
     
     

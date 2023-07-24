@@ -20,7 +20,6 @@
   }
 }
 
-
 .quote-text {
     @apply italic hyphens-auto text-center normal-case break-words text-3xl leading-relaxed
 }

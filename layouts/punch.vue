@@ -12,6 +12,4 @@
     @apply text-brand-darker dark:text-dark-text-contrast;
   }
  } 
-    
-
 </style>

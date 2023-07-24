@@ -39,8 +39,5 @@ span {
 
 .section-number {
     @apply text-brand-dark dark:text-brand-logo;
-
-
-
 }
 </style>

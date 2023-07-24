@@ -7,7 +7,6 @@
   </template>
 
   <style scoped>
-
 span {
     font-family: 'Fira Code'!important;
 

@@ -34,7 +34,6 @@ function wasRead () {
 
 </div>
 
-
 <button class="mt-10 bg-light-warning dark:bg-dark-warning w-25 h-10 rounded-3xl m-auto"
 @click="() => {
   wasRead()
@@ -44,10 +43,3 @@ function wasRead () {
 </div>
     </header>
 </template>
-
-<!-- <style scoped>
-header {
-  @apply font-mono  text-brand-darker dark:text-brand-light bg-brand-light dark:bg-light-text-base;
-}
-
-</style> -->
