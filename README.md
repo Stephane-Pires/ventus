@@ -1,5 +1,7 @@
 # slidev-theme-ventus
 
+![u7161273191_Fast_paper_plane_manga_animation_brightful_flat_-_a2b86c35-5849-46ef-ac75-f88c15c3c7f0_0](https://github.com/user-attachments/assets/d51afe77-698f-4d90-b0f4-4f3d712f75ad)
+
 [![NPM version](https://img.shields.io/npm/v/slidev-theme-ventus?color=3AB9D4&label=)](https://www.npmjs.com/package/slidev-theme-ventus)
 
 A Tornado 🌪 theme for [Slidev](https://github.com/slidevjs/slidev).
