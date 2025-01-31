@@ -1,8 +1,11 @@
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/abb5fca1-f4cc-4cda-98bf-945e61ce9ff3" alt="ventus-icon" width="400"/>
+</p>
+
 # slidev-theme-ventus
 
-![ventus-icon](https://github.com/user-attachments/assets/59d23a91-ca17-4592-b324-ce662a5b5289)
 
-(https://github.com/user-attachments/assets/d51afe77-698f-4d90-b0f4-4f3d712f75ad)
 
 [![NPM version](https://img.shields.io/npm/v/slidev-theme-ventus?color=3AB9D4&label=)](https://www.npmjs.com/package/slidev-theme-ventus)
 
